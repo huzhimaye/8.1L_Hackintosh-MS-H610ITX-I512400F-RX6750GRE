@@ -2,7 +2,7 @@
 
 Everything works fine except Sidecar
 
-<img src="https://github.com/user-attachments/assets/5431164f-b5d1-4285-ac54-3a511bdc3e80" width="290" height="387" />
+<img src="https://github.com/user-attachments/assets/5431164f-b5d1-4285-ac54-3a511bdc3e80" width="435" height="581" />
 
 ## Configuration
 
@@ -54,4 +54,6 @@ Everything works fine except Sidecar
 	 - :x: Secure Boot
 ## Tests
 
-<img src="https://github.com/user-attachments/assets/f4658397-92a0-47ca-8d44-0175740603b9" width="425" height="425" />
+<img src="https://github.com/user-attachments/assets/70d73774-d2ec-45c4-9b8b-261c3290be9d" width="640" height="480" />
+
+<img src="https://github.com/user-attachments/assets/f4658397-92a0-47ca-8d44-0175740603b9" width="640" height="640" />
